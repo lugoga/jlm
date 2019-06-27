@@ -1,0 +1,85 @@
+baseurl         = "/"
+title = "Jumba la Makutano"
+theme = "hugo-casper-two"
+languageCode    = "en-US"
+disqusShortname = ""
+paginate        = 6
+#SectionPagesMenu = "main"
+canonifyurls    = true
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+
+[params]
+  title   = "Maisha ya Haki na Utauwa"
+  subtitle    = "Jumba La Makutano"
+  copyright   = "© 2019"
+
+  cover       = "img/landscae_sunrise_header.jpg"
+  description = "Welcome at this blog where you learn the foundation of christianity"
+  metaDescription = ""
+  googleAnalytics = ""
+  customCSS = []
+  RSSLink = ""
+
+  twitterName = "example"
+  fbName = "example"
+  githubName = "example"
+  linkedinName = "example"
+  mediumName = ""
+
+  logo = "img/logo2.png"
+  orgName = "Jumba La Makutano"
+  orgWebsite = "https://www.telematika.org"
+  orgDescription = "Maelekezo ya Ukristo Ndan "
+
+  showSupport = true
+
+  author = "jlm team"
+  authorAvatar = "img/logo2.png"
+  authorLocation = ""
+  authorWebsite = ""
+  authorDescription = ""
+
+  pageNotFoundTitle = "404 - Page not found"
+
+  #casper or caspertwo
+  singleViewStyle = "casper"
+
+[permalinks]
+  post = "/post/:slug/"
+
+[[menu.main]]
+  name = "Posts"
+  url = "/"    
+  weight = 200
+
+
+[[menu.main]]
+  name = "Categories"
+  url = "/categories/"
+  weight = 99
+  
+#[[menu.main]]
+ # name = "External"
+  #url = "https://google.com/"
+  #weight = 95
+
+## I have added this to overrides and modify theme css 
+customCSS = ["css/overrides.css"]
+
+
+# I also addede this section from staticman, just clone from hugo-future theme
+# Disqus will take priority over Staticman (github.com/eduardoboucas/staticman)
+  # due to its ease of use. Feel free to check out both and decide which you would
+  # prefer to use. See Staticman.yml for additional settings.
+  [params.staticman]
+    # Sets Statiman to be active
+    staticman           = false
+    # Sets the location for Staticman to connect to
+    username            = ""
+    repo                = ""
+    branch              = ""
+
+    [params.staticman.recaptcha]
+      recaptcha         = false
+      siteKey           = "" # Site Key
+      encryptedKey      = ""
