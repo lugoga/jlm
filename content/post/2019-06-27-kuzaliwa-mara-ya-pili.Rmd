@@ -1,14 +1,14 @@
 ---
-title: Kuzaliwa  mara ya pili
-author: benjamin mpinga
+title: Kuzaliwa mara ya Pili
+author: 'Benjamin Mpinga '
 date: '2019-06-27'
-image: /img/dani.jpg
+image: img/mangrove_dege.jpg
 slug: kuzaliwa-mara-ya-pili
 categories: []
 tags: []
 ---
-Kuzaliwa mara ya pili ni fundisho ambalo kwa hakika watu wengi wamekuwa wakiendelea kutokulielewa licha ya kwamba tangu fundisho hili litolewe na Bwana wetu Yesu kristo hapo mwanzoni alilieleza bayana kabisa.
-Fundisho hili kwa sababu ya kutokueleweka kwake limekuwa ndio chanzo kikubwa cha upotevu na uharibifu mkubwa katika dunia ya leo na hilo ambalo ndilo tegemeo la dunia(KANISA).
+
+Kuzaliwa mara ya pili ni fundisho ambalo kwa hakika watu wengi wamekuwa wakiendelea kutokulielewa licha ya kwamba tangu fundisho hili litolewe na Bwana wetu Yesu kristo hapo mwanzoni alilieleza bayana kabisa. Fundisho hili kwa sababu ya kutokueleweka kwake limekuwa ndio chanzo kikubwa cha upotevu na uharibifu mkubwa katika dunia ya leo na hilo ambalo ndilo tegemeo la dunia(KANISA).
 
 Yesu alisema 'Mtu asipozaliwa mara ya pili hatourithi uzima wa milele'maana ya maneno hayo watu walishindwa kumuelewa toka hapo katika hayo makutano. Ila yesu mwenyewe akawafafanulia akisema 'kilichozaliwa kwa roho ni roho na kilichozaliwa kwa mwili ni mwili'ila bado waliomsikiliza hawakumuelewa.
 
@@ -16,3 +16,4 @@ Maneno haya mpaka sasa bado yamekuwa fumbo na mtego mkubwa katika jamii ya makan
 
 ### JE KUZALIWA MARA YA PILI KUNA MAANA GANI? NA MTU ANAZALIWAJE?
 Karibu mpendwa katika kristo yesu tushiriki baraka na neema hii ya ufunuo kutoka jumba la makutano kupitia mtumishi wake KALUNDE.hivi punde tutaweka masomo na baadhi ya rekodi kwa ajili ya kukusaidia wewe uliye mbali  Na Mungu awabariki.
+
