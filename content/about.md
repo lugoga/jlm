@@ -11,59 +11,35 @@ title: About JLM
 type: page
 ---
 
-![nyakla](/img/dani_nyaka.jpg)
+![](/img/uliwahi_kuwa_mkiristo.jpg)
+
+### Jumba la Makutano ni nini?
+Watu wengi wametokea duaniani wakiwa na mambo mbalimbali kumhusu Mungu na mitazamo ya kiroho. Juhudi mbalimbali zimefanywa ili kuhakikisah tu kwamba mwanadamu anamcha Mungu wake, na kuwa na mtindo wa kuabudu. Na pengine, na hasa ndivyo, itaendelea zaidi na zaidi, kutokea kwa watumishi wenye  jumbe na mafunuo. Hiyo haziwezi kuwa shida, wakiwa nasema kweli au uongo (Mat 18: 7--9). 
+
+Shida itakuwa juu yake asikiae na juu yake asemae sisi sote tumeruhusiwa na mbingu, ikiwa tunasema uongo au nasema ukweli. Na kama tulivyotoa muda wetu kusikilizwa na kuwa minongoni mwa waliotokea na kusema;
+
+> "...nimetumwa niseme, niko na ujumbe kwa nyumba ya Mungu kote dunianai, kuamini ni matokeo, ni matunda ya kazi"
+
+Jumba la Makutano ni mkusanyiko wa watu toka dini na madhehebu mabalimabali waliokuwa wameshikiliwa na minyororo ya kiitikadi. Watu waliokuwa  wamewekwa chini ya mitizamo yenye nguvu ya kuwashikilia watu bila suluhu halisi. Hawa ni wahanga wa kiimani amabo walipata mpenyo mdogo wa kufikiri baada ya kusikia ujumbe wa baragumu ya saba uliokuwa ukinena ukweli kulihusu kanisa na maisha yetu. Jumba la makutano linakutanisha waanga walioponywa roho zao toka ushawishi wa kidini, misimamo na itikadi zilizokosa suluhu ya dhambi. 
+
+Tuliusikia jumbe ukinena ukweli kuhusu maisha yetu halisi, ujumbe uliobomoa maumbo yetu bandia na tabia zetu za kuigiza zilizozaliwa kwa imani bila ukweli, ndivyo tulivotikuta na sasa hivi ndivyo tulivyo.  Huu ni ujumbe rafiki uliobeba nia njema ili kila mtua we kama alivyo. Baada ya kuusikia ujumbe huu hatukona vibaya lakini tulijisikia vizuri kujua kwamaba tulikuwa tukingali wenye dhambi nasi tumeaminishwa kuwa tu watakatifu eti kwa kulikiri tu jina la Bwana Yesu. Furaha yetu haikuwa kwamba tu wenye dhambi, bali sasa kwa kuzijua hali zetu halisi. Safari mpya ikaanza maishani mwetu kwa njia ya ujumbe huu. Tulitubu na kuungama na kuyakabidhi maisha yetu mikononi mwa mfumo huu. 
+
+Hapa hatutoi taarifa kulihusu jumba la makutano kama jina, bali kuyahusu maiisha yetu mapya, kama mfumo na familia ya watu waioona kitu kipya na bora kutuhusu. Na kama ni lazima kuwa na jina ili kututofautisha na wengine, tulijikuta tu hilo limetokea baada ya mtumwa wa Bwana mara kwa mara kutuambia hili ni Jumba la Makutano---mahala ambapo mkutano mkuu wa wahanga wa kiroho tumekutanika. Hili ni Jumba la Makutano, jumba la uhai na maisha. Jumba la marekebisho ya mfumo wa kifamilia. 
+
+Mtumishi alisema mengi kulihusu mumba na wala haikuwahi kupitishwa rasmi kuwa ndilo jina letu lakini ndivyo imetokea hatimae. Lakini mtu akitaka kutujua, maisha yetu ya kifamilia na usemi wetu unatutofautisha sana na mifumo mingine. 
+
+### Wataka Kujua zaidi kuhusu Jumba la Makutano?
+
+Ni mahala ambapo tafsiri za kinabii na mafumbo ya kiroho yanaffanuliwa kwa namna ambayo hujawahi kufikiria. Bwana Yesu akawaambia wayahudi; *"Nimesema nanyi mambo ya duniani hamkusadiki, mtanisadikije nikisema nanyi mambo ya mbinguni?"* Jumba la Makutano ni mahala ambapo mambo ya mbinguni nayanenwa, badala ya kuwapa watu mikate tuliyonunua dukani na maji ya zabibu, na kuvifanya siri kwa imani kuwa ndivyo mwili na damu ya Yesu. Jumba la Makutano tunasema waziwazi juu ya mwili na damu na si mikate ile---njoo ule---njoo uonje!
+
+Jumba la Makutano ni ujumbe wa Baragumu ya  Saba. Ujumbe wa mwisho kabisa kuruhusu kanisa na ulimwengu. Dunia ya makanisa imeng'ang'ania imani na wala haitaki kujua ukweli unayoyahusu maisha yao na kanisa kwa ujumla. Watu wanaamini ni washindi bila kushindana popote. Watu wnaamini ni watoto wa Mungu, wala hawajali kama ni kweli Mungu aliwazaa au la! Huyu ni kama mwana wa hiari. Watu wanaamini pia kuwa ni watakatifu na wala hawajali namna wanavyoishi, utakatifu ni maisha na si imani. Watu wanaamini wamehamishwa toka ulimwengu wa giza na kuingizwa ulimwengu wa Yesu, wakati waking'ali wanateswa na nguvu za giza na dhambi ni sehemy ya maisha yao kwa sehemu ndogo hii ndivyo kulihusu Jumba la Makutano.
 
 
-Jumba la Makutano ni mkusanyiko la watu wadini na madhehebu tofautitofauti ambao wanakutana kwa pamoja kwa dhumuni la kujifunza ujumbe wa kanisa kwa njia ya Yesu Kristo. Ni kusanyiko linalohubibiri Injili na kutoa fasiri ya maneno ya kinabii yaliyomo katika maandiko (biblia), ujumbe, mafundisho, na taafsiri hizo zinatokana na maongozi ya Roho Mtakatifu ambayo hutumia vipawa mbalimbali katika kusanyiko. 
+Biblia ina ujumbe wa kweli. Kamwe hatuwezi kuutumia kwa ajili ya nia zetu mbaya na za uongo. Mungu ni mkweli daima, hatuwezi kumshawishi kwa imani zetu juu yake kinyume cha matakwa yake. Ikiwa Yesu atasema leo kwamba "atalivunja hekaru na kwa muda wa siku tatu atalijenga, asomae na afahamu" (ref) Je usemi huu ukitumika kuyavunja vunja makanisa na kulijenga kanisa laYesu utakuwa ujumbe mbaya?
 
-Awali, Mungu alimvuvia Roho Mtakatifu mtumishi wake Kalunde na kumpa ufunuo juu ya uharibifu na upotevu wa kanisa lake hapa ulimwenguni. Na baada ya mafundisho na matengenezo binafsi aliyopewa na Roho Mtakatifu kwa miaka kadhaa, basi Mungu alimsimamisha Mtumishi Kalunde kwa kusudi hili. Kwa hakika haikuwa rahisi kufikia hatua hii, kwani kumekuwa na vipindi mbalimbali katika maisha yakumtumikia Mungu na kupeleka Ujumbe wa Mungu kwa watu wake, ulimwenguni kote. Kumekuwa na vipindi vya majonzi, misukosuko, faraja na furaha, ila yote hayo ni kwa utukufu wa Mungu ili apate kujihidhirisha kwa watu wake. 
-
-Jumba la Makutano ni kusanyiko ambalo linafundisha ujumbe wa haki na kweli juu ya;
-
-1. Kusudi la Mungu kwa Ulimwengu
-1. Jukumu la wanadamu katika ulimwengu
-1. Jukumu la kanisa
-1. Kutoa maana ya maneno ya kinabii (mafumbo) yaliyomo katika maandiko (Biblia) ambayo Mungu amemfunulia mtumishi wake kwa njia ya Roho Mtakatifu kuweza kuyafumbua waziwazi.
-1. Kusafiisha fikra za watu na kuibua vipawa vya watu kwa ajili ya kusimamia kusudi la Mungu (kanisa).
-
-Kimsingi, Jumba la Makutano, ni jina lilitokana na uwepo wa mkusanyiko wa watu walio na shabaha ya kujifunza, kuyashika na kuyaishi maisha yakumpendeza Mungu (maisha ya utakatifu kwa msaada wa Yesu Kristo), hivyo jina hili halijabeba maana yoyote zaidi ya mkusanyiko wa watu.
+Leo kila mtu ana kanisa lake, kila mtua ana huduma yake, kila mtu ana maono yake. Lakini swali jepesi kabisa ni Je, mwili wa kristo unajengwaje? Ujumbe wa Jumba la Makutano umesimama katika msingi huo kwamba hatimaye tunapaswa kuliona kanisa la Yesu badala ya maknisa haya yasiyo na mwingiliano---yaani ujenzi holela (Mat 12:30, Ef 2:15). Mtu mmoja aliwahi niuliza kuwa "*Inawezekanaje dunia yote kuabudu kanisa moja?, litakuwa na ukubwa gani*" Hiyo ndivyo hali ya kutokuelewa. Wahayahudi wakasema "*eti huyu ndiye alivunjae hekaru na kulijenga kwa siku tatu*" Ningelijibu hivi: **nyumba za kuabudia zitakuwa nyingi tu lakini chini ya msingi mmoja na kutokuwa tena mali za watu au taasisi fulani bali mali ya Mungu** Mpaka Yesu anakufa, hekaru la mfalme suleiman lilikuwepo, hakuwahi kulivunja kwa namna ya walivyotegemea. Lakini kusimama kwa msingi wa kanisa ndiko kulikokuwa kuvunjika kwa msingi wa hekaru.
 
 
-### Shabaha
+Mimi ni minongoni mwa ndugu wa familia hii iitwayo **Jumba la Makutano**. Ni muasisi niliyebeba dhamana na jukumu la kifamilia, Kalunde ni jina langu la Ukoo, lina langu halisi naitwa Mohamed Abdalah  Daudi. Hili ndilo jina nililopewa na wazazi wangu. Nilikuwa kijana toka familia ya kiislam, msomi wa elimu ya dini---katika jamii yangu.
 
-Injili ya Jumba la Makutano, shabaha yake kubwa ni;
-
-
-1. Kumtegemea Mungu wa kweli alietukomboa kwa njia ya Yesu Kristo na anayetoongoza kwa Roho Mtakatifu.
-1. Kuhubiri injili ya kweli na ya haki kwa watu wote.
-1. Kusimamia misingi ya ukristo wa kweli (utakatifu).
-1. Kurejesha ibada yenye kibali na yenye kumpendeza Mungu (kwa maelekezo ya Yesu Kristo na ufunuo wa Mungu).
-1. Kuwajengea watu uwezo wa kuyachambua maandiko (Biblia) na kusudi la Mungu juu ya watu wake.
-1. Kupinga injili isiyo ya haki na kweli kwa njia ya hoja.
-1. Kutengeneza familia ya Mungu ya watu wenye maadili na wachamungu wa kweli.
-1. Kuhifadhi siri za Mungu na maagizo yake kwa wanadamu ili watu wawezeshwe na Mungu kuishi maisha matakatifu.
-1. Kuwaweka watu huru kutoka katika minyororo ya dini na kufuata ukamilifu kwa njia ya Yesu Kristu na maongozo ya Roho Mtakatifu.
-1. Kuibua vipawa kwa njia ya Roho Mtakatifu ambavyo Mungu alikirimia watu wake tangu mwanzo, ila vikafifishwa na uovu wa dunia. 
-1. Kutoa mafundisho, maelekezo ya kweli na haki juu ya Kristo Yesu na kanisa lake.
-1. Baada ya yote hayo, basi tunategemea, familia itakayojengwa katika Jumba la Makutano, kwa neema na mapenzi ya Mungu, Mungu Baba kwa njia ya **Yesu Kristo** na Roho Mtakatifu, atalisimamisha tena kanis lake la mwisho (*Baragumu ya Saba Kisima cha Maarifa na Ufunuo*).
-
-
-
-### Hitimisho
-Kwa kuhitimisha muhtasari huu, basi hii ndio misingi ya Jumba la Makutano, ya kwamba;
-
-+ Yatupasa sisi wanadamu kuishi kwa maagizo ya Mungu na kumtegemea Mungu kwa maongozo ya Roho Mtakatifu.
-+ Kama kuna injili yoyote ile inayohubiriwa basi lazima itokane na kazi za Mungu maishani mwetu na siyo utaharamu au falsafa za kidunia na maarifa ya kibinadamu.
-+ Kama kuna ibaday yoyote inafanyika basi ibaday hiyo lazima iwe takatifu na wanaoifanya wawe watakatifu kwa maana Mungu ni Mtakatifu na Baba wa Watakatifu.
-+ Kama ipo sadaka inatolewa, basi lazima iwe takatifu na aitoaye lazima awe mtakatifu.
-Basi kazalika yeye aombaye, sharti awe mtakatifu, maana amuombae Mungu baba ni Mtakatifu.
-+ Injili ihubiriwe kwa njia ya haki na kweli na sio ulaghai na utapeli.
-+ Kama mtu atatenda miujiza, basi lazima itokane na maisha yake ya utauwa (utakatifu) na si uratibu wa uongo au miujiza ya kishetani.
-+ Injili ni upango ukatao kuwili, basi sharti aihubiriye, lazima iwe inamfundisha na yeye kadhalika, siyo waumini pekee yake, maana kipofu hawezi muongozo kipofu mwenzake. 
-+ Ibada ni jambo takatifu, ni jambo la Kimungu, na ni kwa ajili ya Mungu, hivyo basi, sharti, ibada zote zifuate maongozo ya Roho Mtakatifu na siyo utashi wa kibinadamu. Utaratibu wowote katika ibada, lazima iwe na maslahi kwa Mungu, maana ibada ni ya watu kwa ajili ya Mungu. 
-+ Mafundisho, maagizo, na maelekezo yoyote yafanyikayo kwa njia ya injili, lazima yalenge kumfanya mtu kuwa na maisha ya haki (utakatifu), na si kumnufaisha mtu na dunia hii. Maana imeandikwa pasipo utakatifu, hatutarishi ufalme. 
-+ Mkristo ni uzao wa Mungu si uzao wa mwanadamu, wala elimu, hivyo uokovu ni kazi ya Mungu na si kazi ya mwanadamu wala matakwa ya mwanadamu.
-+ Maandiko (Biblia)  pasipo ufunuo hayawezi kueleweka, hivyo, Jumba la Makutano, kwa kibali cha Mungu, amempaka mafuta na kumfunulia, mtumishi wake kwa ajili yetu. 
-
-
-![](/img/header_top.jpg)
+{{< yt uJOg48ksQQ0 >}}
