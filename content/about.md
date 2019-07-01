@@ -7,7 +7,7 @@ menu:
     weight: 111
 noauthor: true
 share: false
-title:
+title: About jlm
 type: page
 ---
 
