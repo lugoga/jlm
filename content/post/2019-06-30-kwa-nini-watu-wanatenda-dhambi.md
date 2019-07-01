@@ -4,7 +4,7 @@ author: Kalunde
 date: '2019-06-30'
 image: img/uliwahi_kuwa_mkiristo_full.jpg
 slug: kwa-nini-watu-wanatenda-dhambi
-categories: []
+categories: [ualimu]
 tags: []
 ---
 

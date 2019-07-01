@@ -7,16 +7,16 @@ menu:
     weight: 111
 noauthor: true
 share: false
-title: About jlm
+title: About JLM
 type: page
 ---
 
 ![](/img/uliwahi_kuwa_mkiristo.jpg)
 
 ### Jumba la Makutano ni nini?
-Watu wengi wametokea duaniani wakiwa na mambo mbalimbali kumhusu Mungu na mitazamo ya kiroho. Juhudi mbalimbali zimefanywa ili kuhakikisah tu kwamba mwanadamu anamcha Mungu wake, na kuwa na mtindo wa kuabudu. Na pengine, na hasa ndivyo, itaendelea zaidi na zaidi, kutokea kwa watumishi wenye  jumbe na mafunuo. Hiyo haziwezi kuwa shida, wakiwa nasema kweli au uongo (Mat 18: 7--9). 
+Watu wengi wametokea duaniani wakiwa na mambo mbalimbali kumhusu Mungu na mitazamo ya kiroho. Juhudi mbalimbali zimefanywa ili kuhakikisha tu kwamba mwanadamu anamcha Mungu wake, na kuwa na mtindo wa kuabudu. Na pengine, na hasa ndivyo, itaendelea zaidi na zaidi, kutokea kwa watumishi wenye jumbe na mafunuo. Hiyo haziwezi kuwa shida, wakiwa wanasema kweli au uongo (Mat 18: 7--9). 
 
-Shida itakuwa juu yake asikiae na juu yake asemae sisi sote tumeruhusiwa na mbingu, ikiwa tunasema uongo au nasema ukweli. Na kama tulivyotoa muda wetu kusikilizwa na kuwa minongoni mwa waliotokea na kusema;
+Shida itakuwa juu yake yeye asikiae na juu yake asemae. Maana sisi sote tumeruhusiwa na mbingu, ikiwa tunasema ukweli au nasema uongo. Basi, kama tulivyotoa muda wetu kusikiliza hata tukana na namna fulani ya imani, basi nami naomba ruhusu mioyoni mwenu, nomba ridhaa, si ya kuhaminiwa, bali ya kusikilizwa kama ndugu wengine walivyosikilizwa, nami niwe miongoni mwa ndugu waliotokea na kusema. 
 
 > "...nimetumwa niseme, niko na ujumbe kwa nyumba ya Mungu kote dunianai, kuamini ni matokeo, ni matunda ya kazi"
 

@@ -6,9 +6,55 @@
     <description>Recent content in Categories on Jumba la Makutano</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
+    <lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>ualimu</title>
+      <link>/categories/ualimu/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/ualimu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>uchungaji</title>
+      <link>/categories/uchungaji/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/uchungaji/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>uinjilisti</title>
+      <link>/categories/uinjilisti/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/uinjilisti/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>unabii</title>
+      <link>/categories/unabii/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/unabii/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>utume</title>
+      <link>/categories/utume/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/utume/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
