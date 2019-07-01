@@ -1,4 +1,4 @@
-baseurl         = "/"
+baseurl         = "https://jlm.netlify.com//"
 title = "Jumba la Makutano"
 theme = "hugo-casper-two"
 languageCode    = "en-US"
