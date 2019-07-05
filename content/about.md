@@ -42,5 +42,5 @@ Leo kila mtu ana kanisa lake, kila mtua ana huduma yake, kila mtu ana maono yake
 
 Mimi ni minongoni mwa ndugu wa familia hii iitwayo **Jumba la Makutano**. Ni muasisi niliyebeba dhamana na jukumu la kifamilia, Kalunde ni jina langu la Ukoo, lina langu halisi naitwa Mohamed Abdalah  Daudi. Hili ndilo jina nililopewa na wazazi wangu. Nilikuwa kijana toka familia ya kiislam, msomi wa elimu ya dini---katika jamii yangu.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uJOg48ksQQ0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JocPMMDb6hQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
