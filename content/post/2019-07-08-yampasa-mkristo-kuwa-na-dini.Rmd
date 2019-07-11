@@ -1,0 +1,116 @@
+---
+title: Yampasa Mkristo kuwa na Dini?
+author: Masumbuko Semba
+date: '2019-07-08'
+slug: yampasa-mkristo-kuwa-na-dini
+image: img/ukristo_nature.jpg
+categories: []
+tags: []
+bibliography: ref.bib
+---
+
+```{r, echo=FALSE, comment=FALSE, message=FALSE, warning=FALSE}
+#load the package
+require(tidyverse)
+require(RColorBrewer)
+
+# preparae the data
+dini = data.frame(religion = c("Christians", "Muslims", "unaffiliated", "Hindus", "Others"),
+                  people = c(2.3,1.8,1.2,1.1,1.01),
+                  percentage = c(31.2,24.1,16,15.12, 13))
+
+#"Hindus","Buddhists", "Fork religions", "Others", "Jews"
+# sum(c(6.9,5.7,.8))
+
+# arrange the religion percentage in descending order and to put the labels in the center of pies. we will use **cumsum(percentage)-0.5*percentage)** as label position
+dini = dini %>% 
+  arrange(desc(religion)) %>% 
+  mutate(lab.pos = cumsum(percentage)-0.5*percentage)
+
+## create color vector
+dini.color = c("#0073C2FF", "#EFC000FF", "#00A087B2", "#F39B7FB2", "#2598DA")
+#scales::show_col(dini.color)
+
+```
+
+```{r, eval=FALSE, echo=FALSE}
+
+ggplot(data = dini %>% filter(percentage > 7), 
+       aes(x = "", y = percentage, fill = religion)) + 
+  geom_bar(stat = "identity", width = 1) + 
+  coord_polar("y", start = 0) +
+  geom_text(aes(y = lab.pos, label = percentage), col = "white") +
+  theme_void() +
+  scale_fill_brewer(palette = "Paired")
+
+```
+
+The Pew Research Center demographic analysis reported that Christians is the largest religious group in the world, with an estimated 2.3 billion (nearly a third (31%) of Earth’s 7.3 billion people.
+
+```{r, echo=FALSE, fig.align="center", fig.keep='high', fig.margin = TRUE}
+
+# Donut chart
+# donut chart is just a simple piechart with a hole inside. The only difference  etween the pie chart code is that we set x = 2, and xlim = c(0.25,2.5) to create a hole inside the pie chart. In addition the argument with in the geom_bar is no longer needed. 
+pie.dini = ggplot(data = dini, 
+       aes(x = 2, y = percentage, fill = religion)) + 
+  geom_bar(stat = "identity", width = 1) + 
+  coord_polar("y", start = 0) +
+  geom_text(aes(y = lab.pos, label = percentage), col = "white") +
+  theme_void() %+%
+  theme(legend.text = element_text(size = 12), legend.position = "none")+
+  # scale_fill_brewer(palette = "Paired") +
+  scale_fill_manual(values = dini.color, name = "Dini")+
+  xlim(0.25,2.5)+
+  labs(title = "World Major Religions",
+       subtitle = "Christians are the largest group in 2015",
+       caption = "")
+
+bar.dini = ggplot(data = dini, aes(x =religion, y = people, fill = religion))+
+  geom_col(width = .6)+
+    scale_fill_manual(values = dini.color, name = "Dini")+
+  coord_flip(expand = TRUE, ylim = c(0,2.6))+
+  scale_y_continuous(position = "right", breaks = seq(0.5,3,.5))+
+  scale_x_discrete(limits = c("Christians", "Muslims", "unaffiliated", "Hindus", "Others") %>% rev())+
+  theme_void()+
+  theme(aspect.ratio = .85,legend.position = "none", axis.text = element_text(size = 12))+
+  labs(x = NULL, y = "Number of People (Billions)", 
+       subtitle = "People in the World in 2015 (Billions)", 
+       title = "")
+
+cowplot::plot_grid(pie.dini, bar.dini, nrow = 1, rel_heights = c(1,.8))
+```
+
+This findings from Pew Research Center may sound good to you knowing that Christians makes the largest human population on earth when compared to other religion. You may find yourself comforted being among the people that make more than one--third of world population. However, Looking at these figures sobered my mind and got me ask myself a question; *what make christians different from other religions?*. I also scribbled my head and wondered whether the team of researchers from the Pew were familiar with christianity---religions---denominations. I then asked myself if these researchers expound these three words, then understanding this concepts will help people to see the differences that exist and understand the context in their findings. Unfortunate, that was not the case! They simply pooled Christians and religious together. 
+
+To start, let's first understanding some terms. The Webster dictionary defines religion as a system of faith and of worship,---devotion, fidelity, conscientiousness, an awareness or conviction of the existence of a supreme being, which arouses reverence, love gratitude, the will to obey and serve [@merriamWebster]. When I evaluated myself to get the meaning of religion and christianity, I realized that for years I lived a life believing that God loves me because of what I did fo Him. I looked at my church attendance, my Bible reading, my prayer time and my services as things that kept me on "***God's good side***" and what "***saved me***". These religious practises aren't problem of the church today, even before Jesus came on earth it existed to God's chosen people---The Jews, and Lord warned them; 
+
+> The Lord says: “These people come near to me with their mouth and honor me with their lips, but their hearts are far from me. Their worship of me is made up only of rules taught by men"---Isaiah 29:13
+
+That verse shut me off the track of Christianity. Sticking on this line opened my mind and I discovered that while religious practise may seem as if I am christian, it came to me that I was not. I was so blind that I thought I was a Christian, but I was living a pure religious life. This is exactly what religious people believe and practise. Religion makes you believe that your devotion, your performance, your practices or your moral makes you right with God; You prefer religious effort---dealing with God in your own terms. This puts you in control. And you feel better by being religious. Religion is the idealogy that stress righteousness is achieved and not received. No matter what you believe in religion, it suck life out of you! This is because religions believes that rightenouseness is gained through achievements. No matter which religion you belong, just look for some of the religions like Buddhism, Hinduism, Islam, and Judaism. They all have one thing in common---please God through their own effort. 
+
+Christianity, however, is not religious striving, but rather a personal relationship with God and not personal obligations with God. To practice Christianity we must respond to what God has done for us instead of our daily struggle to please God with our deeds. Many Christians, however, behave in a manner that is far from this. With all forms of formalism, rituals, legalism, rules, systems and formula, we attempt to reduce Christianity to a religion---a system of some kind where works are really substituted for faith and truth, and where law takes precedence over grace. 
+
+Ridenour Fritz [-@ridenour] wrote book a compelling book titled *How to Be a Christian Without Being Religious?* that mark clearly the difference that exist between religion and Christianity. Whereas in religion, its followers are trying to reach God, find God and please God through their own effort, Christianity is God reaching down to man. Christianity claims that men have never found God, but God has found men. In other words is that God does not love you because of what you have done; God loves you because of what Jesus has done for you. That is the core purpose of God sending His Son on earth, to redeem human kind from evil kingdom. Unfortunate, that is not what religion is preaching and religions have drifted far away from the truth. 
+
+Although religion makes people feel happy because of the good deeds they do, the fact is that it imposes a gulf between God and religious people---Christians that have put belief in religion. It's strange that religious are caught up in this dilemma and are quite often unaware! And they struggle against it, but the distance is always there. The bubble of religion seal off people from knowing the trugh, and religions find themselves disturbed and inconvinient with their belief. When the religion confront the truth of Christianity, religios people find insecure and without hope for eternal life. 
+
+In New Testament Paul's letter to the Romans shows us that Christianity is far more than religion. It tells who we are, why we are living and how to get the most out of life. The letter plainly illustrates that when God comes into our life, He demands all of it. Away with religious pretense and pontification. Away with our religious game called "church" that we play so well every sunday. Let's us see what Paul says...
+
+> " The wrath of God is being revealed from heaven against all the godlessness and wickedness of men who suppress the truth by their wickedness, since what may be known about God is plain to them, because God has made it plain to them. For since the creation of the world God’s invisible qualities—--his eternal power and divine nature—--have been clearly seen, being understood from what has been made, so that men are without excuse. For although they knew God, they neither glorified him as God nor gave thanks to him, but their thinking became futile and their foolish hearts were darkened. Although they claimed to be wise, they became fools and exchanged the glory of the immortal God for images made to look like mortal man and birds and animals and reptiles. Therefore God gave them over in the sinful desires of their hearts to sexual impurity for the degrading of their bodies with one another. They exchanged the truth of God for a lie, and worshiped and served created things rather than the Creator—who is forever praised. Amen. Because of this, God gave them over to shameful lusts. Even their women exchanged natural relations for unnatural ones. Furthermore, since they did not think it worthwhile to retain the knowledge of God, he gave them over to a depraved mind, to do what ought not to be done. They have become filled with every kind of wickedness, evil, greed and depravity. They are full of envy, murder, strife, deceit and malice. They are gossips, slanderers, God-haters, insolent, arrogant and boastful; they invent ways of doing evil; they disobey their parents; they are senseless, faithless, heartless, ruthless. Although they know God’s righteous decree that those who do such things deserve death, they not only continue to do these very things but also approve of those who practice them."---Romans 1:18-26,28-32
+
+Imagine that Paul is talking to you through the above verse. Please ignore the obvious difference between religions and denominations and focus on the larger analogy of religion and christianity. What have we in these verse? There were inherent problem in the humanity---religions. Paul make an accurate description---religion have made men rebel against God and the result of the rebellion is listed in Romans 1:24--32---murder, fornication, adultery, homosexuality, greed, have, envy, lying etc. 
+
+Paul succumb the to the ***good, moral*** people who won't listen to God's Word. Reading between the lines we can hear Paul saying religious people make themselves moral by keep doing their own goodness and fail to look into their own hearts. In other words, religious people only think of how *nice* they are, and do not consider the Word of God. Paul illustrates an important lesson because he has been a religious before he became Christian. 
+
+Paul even has a few words for the *religious* ones, in fact the most religious ones of all---the Jews. And Paul knows that religion is the primary obstacle from being a Christian. This is because he was once a *religious Jew*. But when he met Christ, he began to see himself as he really was on the inside when he compared his religious practices with Jesus perfection.
+
+> "if you call yourself a Jew; if you rely on the law and brag about your relationship to God; if you know his will and approve of what is superior because you are instructed by the law; if you are convinced that you are a guide for the blind, a light for those who are in the dark, an instructor of the foolish, a teacher of infants, because you have in the law the embodiment of knowledge and truth— you, then, who teach others, do you not teach yourself? You who preach against stealing, do you steal? You who say that people should not commit adultery, do you commit adultery? You who abhor idols, do you rob temples? You who brag about the law, do you dishonor God by breaking the law? As it is written: “God’s name is blasphemed among the Gentiles because of you.”---Romans 2:17-24
+
+Paul speaks to the jews of his time, They were religious. They read their Bible regularly. They prayed, fasted, tithed and worshiped God. They were the good, solidly religious people who never questioned their standing with God. It never crossed their minds that they too might be under God's condemnation, but they were. What went wrong? The Jews being God's chosen people spoiled them and were proud and their pride led them to hypocrisy. They were proud of knowing God's laws, but they dishonored Him by breaking them (Romans 2:23). This pride of Jews made even the world hates God (Romans 2:24).
+
+And the same thing happens today. In many churches, religion comes before personal commitment to Christ. Religion can make you proud and self-righteous, but in reality you fail to be kind, honest, humble, loving. True, the devil blind them, but the religious hypocrisy in the church that reinforce its fellows to rob God with good deeds never make them see either. Paul exposes the failure of *religion* to redeem humankind. He plainly states that no one is free from sin. Even religious people, even the chosen Jews, need a change of mind and heart. That's the only thing that counts in God's sight. 
+
+> "Circumcision has value if you observe the law, but if you break the law, you have become as though you had not been circumcised. If those who are not circumcised keep the law’s requirements, will they not be regarded as though they were circumcised? The one who is not circumcised physically and yet obeys the law will condemn you who, even though you have the written code and circumcision, are a lawbreaker. A man is not a Jew if he is only one outwardly, nor is circumcision merely outward and physical. No, a man is a Jew if he is one inwardly; and circumcision is circumcision of the heart, by the Spirit, not by the written code. Such a man’s praise is not from men, but from God."---Romans 2:25-29
+
+
+### References

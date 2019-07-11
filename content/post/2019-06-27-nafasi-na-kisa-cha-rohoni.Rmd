@@ -16,7 +16,7 @@ bibliography: ref.bib
 
 >`r tufte::quote_footer("**Waebrania 12**:17")`
 
-*Nafasi* ni nini? Akida Hamisi na waandishi wenzake [-@kamusi] katika *Kamusi Ya Kiswahili Sanifu* amefafanua kuwa *Nafasi* ni mahali palipo patupu na ambapo panaweza kuwekwa kitu. Oxford -@oxford pia wafafanual neno *nafasi* kuwa ni eneo hali au mazingira  yanayoruhusu au yanayo achilia uwezekano  wa kitu kingine ama cha aina ileile kupata sehemu ya kukaa, kuishi, au kuwepo.
+*Nafasi* ni nini? Akida Hamisi na waandishi wenzake [-@kamusi] katika *Kamusi Ya Kiswahili Sanifu* amefafanua kuwa *Nafasi* ni mahali palipo patupu na ambapo panaweza kuwekwa kitu. Oxford -@oxford pia wafafanual neno *nafasi* kuwa ni eneo hali au mazingira  yanayoruhusu au yanayo achilia uwezekano  wa kitu kingine ama cha aina ileile kupata sehemu ya kukaa, kuishi, au kuwepo [@merriamWebster].
 
 ![*Picha hii inaonyesha foleni ya Magari katika Makutano ya Ubungo. Unaweza ona nafasi iliyo wazi hapa?*](/img/nafasi.jpg)
 
