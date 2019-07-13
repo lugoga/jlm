@@ -2,7 +2,7 @@
 title: Nafasi na Kisa cha Rohoni
 author: Kalunde
 date: '2019-06-27'
-image: img/mangrove_dege.jpg
+image: img/nafasi_kisa_rohoni.jpg
 slug: nafasi-na-kisa-cha-rohoni
 categories: []
 tags: []
