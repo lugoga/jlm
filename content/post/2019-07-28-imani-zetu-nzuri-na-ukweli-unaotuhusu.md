@@ -2,7 +2,7 @@
 title: Imani Zetu Nzuri na Ukweli Unaotuhusu
 author: Kalunde
 date: '2019-07-28'
-image: img/relation_obligation_counts.jpg
+image: img/imani_zetu.jpg
 slug: imani-zetu-nzuri-na-ukweli-unaotuhusu
 categories: []
 tags: []
