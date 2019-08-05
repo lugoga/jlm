@@ -4,7 +4,7 @@ date: "2015-04-14T22:17:00+00:00"
 draft: false
 menu:
   main:
-    weight: 110
+    weight: 109
 noauthor: true
 share: false
 title: Seminars
